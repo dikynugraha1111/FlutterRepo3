@@ -1,0 +1,32 @@
+Test 1: Row, Column, appbar, routes(pindah activity/widget)
+Test 2: Bottombar/Tabbar/BottomNavigationBar, tab 1 List view, tab 2 list dengan array, tab 3 list dengan JSON API ,gambar
+Test 3: Input(Input text, alert dialog, snackbar)
+Test 4: Grid View, Hero animation
+Test 6: Melakukan google sign in(google auth). Dan pembuatan Form
+Test 7: CRUD
+Test 8: Login Animation with http get
+Test 9: CRUD Fire Base, Upload Gambar and deploy apk
+test 10:
+Test 11: QR Code
+Test 12: WebView Smasa
+Test 13: Provider State Management
+Test 14: Bloc State Management
+Test 15: Here Map => position map, marker location, ruting location
+Test 15: Here Map => user live location
+Test 16: Lokasi terdekat
+Test 17: Carousel, onBoarding Screen sudah dengan shared preferences
+
+keytool -list -v -keystore c:\Users\ASUS\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+keytool -list -v -keystore "\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+untuk mencari sha-1 bisa buka di android studio (cari mbah google, get sha-1 rilis version)
+Ada beberapa tambahan ketika menggunakan firebase, lihat di settings.gradle - android (test 9)
+
+keystore pass 123456
+keypassword 123456
+
+11:DA:08:00:18:A7:6B:71:FC:5A:9C:F6:BD:EB:AD:AF:10:54:33:9C
+02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
+02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
+02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
+02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
+53:3C:0A:41:19:2E:BC:76:64:C2:8E:E4:A1:BB:8B:5A:35:E7:08:21

@@ -23,7 +23,7 @@ Ada beberapa tambahan ketika menggunakan firebase, lihat di settings.gradle - an
 
 keystore pass 123456
 keypassword 123456
-
+coba
 11:DA:08:00:18:A7:6B:71:FC:5A:9C:F6:BD:EB:AD:AF:10:54:33:9C
 02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
 02:B8:6F:C2:23:8E:32:E6:46:0A:C1:2E:A0:FD:0D:07:1A:22:38:51
